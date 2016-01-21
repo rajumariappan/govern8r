@@ -1,0 +1,5 @@
+Step One:
+   Login as root user of your AWS account.
+   Go to IAM section.
+   
+   
